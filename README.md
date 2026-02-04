@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head># News - Home
-  </head>
   <body>
     <h1>News - Home</h1>
   <p>This news article desribes the current and upcoming events in Armstrong Creek.
