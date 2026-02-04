@@ -1,2 +1,13 @@
-# brudersm.github.io
-does this show up? if so, need to make this index.html
+<!DOCTYPE html>
+<html>
+  <head><title>News - Home</title>
+  </head>
+  <body>
+    <h1>News - Home</h1>
+  <p>This news article desribes the current and upcoming events in Armstrong Creek.
+    <sub>note: this news article is based on fictional events.</sub>
+  </p>
+  <p><a href="news_article.html" target="_self">click here for the latest news!
+  </p>
+  </body>
+</html>
